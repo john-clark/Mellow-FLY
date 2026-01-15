@@ -39,19 +39,19 @@
 
 #### 1\. Firmware Description and Pattern Selection ​
 
-*   [Next Computer Firmware Burning Guide](firmware/)
+*   [Next Computer Firmware Burning Guide](Firmware/)
 
 #### 2\. Burning USB or CAN firmware ​
 
 Select the corresponding firmware according to the connection method:
 
-*   [USB Firmware Burning](firmware/usb.md) or [CAN Bridge Firmware Burning](firmware/can.md)
+*   [USB Firmware Burning](Firmware/usb.md) or [CAN Bridge Firmware Burning](Firmware/can.md)
 
 > Note for this step
 > 
 > *   **Device recognition** : Be sure to record the device ID/UUID after burning, configure the necessary information for Klipper
 > *   **Standby programme**: If the burning fails, try to burn the BL firmware first.
->     *   [BL firmware burning](firmware/bl.md)
+>     *   [BL firmware burning](Firmware/bl.md)
 
 ---
 
@@ -86,10 +86,10 @@ Select the corresponding firmware according to the connection method:
 
 **Related Documents:**
 
-*   [Tool board connection and ID acquisition](advanced/toolboard.md)
-*   [Accelerometer Configuration](advanced/adxl.md)
-*   [Marlin firmware](advanced/marlin.md)
-*   [Driver LED configuration](advanced/led.md)
+*   [Tool board connection and ID acquisition](Advanced/toolboard.md)
+*   [Accelerometer Configuration](Advanced/adxl.md)
+*   [Marlin firmware](Advanced/marlin.md)
+*   [Driver LED configuration](Advanced/led.md)
 
 > Extended Function Description
 > 
@@ -108,7 +108,7 @@ Select the corresponding firmware according to the connection method:
 
 **Related Documents:**
 
-*   [Schematics and Resources Download](advanced/schematic.md)
+*   [Schematics and Resources Download](Advanced/schematic.md)
 
 ---
 
@@ -128,3 +128,4 @@ Select the corresponding firmware according to the connection method:
 3.  Configure **advanced features** on demand to improve print performance
 
 4.  Try **Marlin firmware** or other extensions
+
