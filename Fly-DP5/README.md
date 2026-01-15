@@ -6,7 +6,7 @@
 
 ## 📄️ Document index
 
-[Quickly navigate.](/index.md)
+[Quickly navigate.](index.md)
 
 ## DP5 Instructions and Considerations for DP5
 
@@ -25,3 +25,4 @@
 
 
 [6 projects](Advanced)
+
