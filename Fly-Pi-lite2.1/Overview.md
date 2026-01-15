@@ -2,7 +2,7 @@
 
 Fly-Pi-lite2.1 is a Klipper machine for beginners, integrated with deeply optimized systems and plug-ins, out of the box, to help users quickly build a 3D printing control environment.
 
-![board image](/lite.png)
+![board image](lite.png)
 
 ## Product features ​
 
@@ -40,17 +40,17 @@ Important: About Electricity
 
 ## Detailed product specifications ​
 
-### 1\. Core system ​
+### 1. Core system ​
 
 *   **CPU**CPU: Full-Chi H3, quad-core Cortex-A7
 *   **GPU**GPU: Mali-400 MP2
 *   **Running memory:** 512MB DDR3
 
-### 2\. Storage and extension ​
+### 2. Storage and extension ​
 
 *   **External storage** : Supports 128GB Micro SD card (TF card)
 
-### 3\. Interface at a glance ​
+### 3. Interface at a glance ​
 
 *   **Display output**
     *   FPC-HDMI × 1
@@ -60,14 +60,14 @@ Important: About Electricity
     *   USB 2.0 to 2
     *   2.4GHz Wi-Fi (onboard)
 
-### 4\. Power and power management ​
+### 4. Power and power management ​
 
 *   **Input voltage** : DC 5V
 *   **Power off protection function**::
     *   **Supports power off and** **safety shut-off** functions.
     *   It needs to be used with the KPPM security shutdown module.
 
-### 5\. Systems and software ​
+### 5. Systems and software ​
 
 *   **Operating system** : FlyOS-FAST (lightweight system optimized for 3D printing)
 *   **Core firmware**::
@@ -81,5 +81,6 @@ Important: About Electricity
 ## Considerations ​
 
 About Wi-Fi
+
 
 Fly-Pi-lite2.1 only supports 2.4GHz Wi-Fi networks and does not support 5GHz or dual-band integrated networks.
