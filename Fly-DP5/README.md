@@ -6,7 +6,7 @@
 
 ## 📄️ Document index
 
-[Quickly navigate.](/index)
+[Quickly navigate.](/index.md)
 
 ## DP5 Instructions and Considerations for DP5
 
@@ -22,5 +22,6 @@
 [Wiring Instructions](Usage/wiring.md)
 
 ## DP5's extended capabilities and advanced configuration
+
 
 [6 projects](Advanced)
