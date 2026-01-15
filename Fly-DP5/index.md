@@ -31,7 +31,7 @@
 
 **Core principles** : Most problems are caused by inconsistent configuration, connection, or power supply. Here are the highlights of Fly-DP5:
 
-*   [Frequently Asked Questions](usage/faq.md)
+*   [Frequently Asked Questions](Usage/faq.md)
 
 ---
 
@@ -126,4 +126,5 @@ Select the corresponding firmware according to the connection method:
 1.  View the specific features required documentation directly
 2.  Reference **Technical Information** for Detailed Technical Parameters
 3.  Configure **advanced features** on demand to improve print performance
+
 4.  Try **Marlin firmware** or other extensions
